@@ -50,6 +50,12 @@ flags = [
 '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1',
 '-isystem',
 '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include',
+'-isystem',
+'/srv/schroot/home/mprevir/mprevir-core-2.0/usr/include',
+'-isystem',
+'/srv/schroot/home/mprevir/mprevir-core-2.0/usr/include/x86_64-linux-gnu',
+'-isystem',
+'/home/mprevir/sources/cmsim/branches/exocmsimD3_0/src'
 ]
 
 
