@@ -59,6 +59,8 @@ set completeopt=menuone
 
 syntax on
 
+let python_highlight_all = 1
+
 map <c-n> :NERDTreeToggle<cr>
 let NERDTreeDirArrows=0
 let g:clang_auto=1
